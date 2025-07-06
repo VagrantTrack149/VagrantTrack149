@@ -1,5 +1,5 @@
 <h1 align="center">Soy Neil Otniel Moreno Rivera</h1>
-<h3 align="center">Estudiante de Ingeniería en sistemas computacionales.</h3>
+<h3 align="center">Ingeniero en Sistemas Computacionales.</h3>
 
 - 📫 How to reach me **neilotniel@gmail.com**
 
